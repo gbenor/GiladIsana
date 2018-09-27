@@ -1,0 +1,292 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 3.6 (Movie_Recommender_System)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.4" />
+      <homePath value="C:\Users\user\PycharmProjects\Movie_Recommender_System\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Anaconda3/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/Anaconda3/Lib" type="simple" />
+            <root url="file://$USER_HOME$/Anaconda3" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/Movie_Recommender_System/venv" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/Movie_Recommender_System/venv/Lib/site-packages" type="simple" />
+            <root url="jar://$USER_HOME$/PycharmProjects/Movie_Recommender_System/venv/Lib/site-packages/setuptools-28.8.0-py3.6.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/Movie_Recommender_System/venv/Lib/site-packages/pip-9.0.1-py3.6.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/-8584752" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.6" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/Movie_Recommender_System" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6 (v)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.4" />
+      <homePath value="C:\Users\user\PycharmProjects\Movie_Recommender_System\v\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Anaconda3/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/Anaconda3/Lib" type="simple" />
+            <root url="file://$USER_HOME$/Anaconda3" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/Movie_Recommender_System/v" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/Movie_Recommender_System/v/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/Anaconda3/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/Anaconda3/Lib/site-packages/win32" type="simple" />
+            <root url="file://$USER_HOME$/Anaconda3/Lib/site-packages/win32/lib" type="simple" />
+            <root url="file://$USER_HOME$/Anaconda3/Lib/site-packages/pythonwin" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/1172176239" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.6" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.4" />
+      <homePath value="C:\Users\user\Anaconda3\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Anaconda3/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/Anaconda3/Lib" type="simple" />
+            <root url="file://$USER_HOME$/Anaconda3" type="simple" />
+            <root url="file://$USER_HOME$/Anaconda3/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/Anaconda3/Lib/site-packages/win32" type="simple" />
+            <root url="file://$USER_HOME$/Anaconda3/Lib/site-packages/win32/lib" type="simple" />
+            <root url="file://$USER_HOME$/Anaconda3/Lib/site-packages/pythonwin" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/-2066014772" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.6" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6 (chimiRic)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.4" />
+      <homePath value="C:\Users\user\Documents\chimiRic\v\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Anaconda3/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/Anaconda3/Lib" type="simple" />
+            <root url="file://$USER_HOME$/Anaconda3" type="simple" />
+            <root url="file://$USER_HOME$/Documents/chimiRic/v" type="simple" />
+            <root url="file://$USER_HOME$/Documents/chimiRic/v/Lib/site-packages" type="simple" />
+            <root url="jar://$USER_HOME$/Documents/chimiRic/v/Lib/site-packages/setuptools-28.8.0-py3.6.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/Documents/chimiRic/v/Lib/site-packages/pip-9.0.1-py3.6.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/1124894791" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.6" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Documents/chimiRic" />
+    </jdk>
+    <jdk version="2">
+      <name value="Remote Python 3.6.4 (sftp://gbenor@192.168.159.129:22/home/gbenor/anaconda3/bin/python)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.4" />
+      <homePath value="sftp://gbenor@192.168.159.129:22/home/gbenor/anaconda3/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/164354858/-142570073" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/164354858/687626827" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/164354858" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.6" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional WEB_SERVER_CONFIG_ID="ef57a329-b0c0-4444-8db2-728c6b94a024" WEB_SERVER_CONFIG_NAME="Copy of project-level server 'Ubuntu'" WEB_SERVER_CREDENTIALS_ID="sftp://gbenor@192.168.159.129:22" INTERPRETER_PATH="/home/gbenor/anaconda3/bin/python" HELPERS_PATH="/home/gbenor/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="">
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/164354858/-142570073" remote-root="/home/gbenor/anaconda3/lib/python3.6" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/164354858/687626827" remote-root="/home/gbenor/anaconda3/lib/python3.6/site-packages" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Remote Python 3.6.4 (sftp://gbenor@192.168.159.130:22/home/gbenor/anaconda3/bin/python)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.4" />
+      <homePath value="sftp://gbenor@192.168.159.130:22/home/gbenor/anaconda3/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1170732992/-142570073" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1170732992/687626827" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/-1170732992" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.6" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional WEB_SERVER_CONFIG_ID="c62ec4d8-d70f-48d0-96ca-b161fcdc76df" WEB_SERVER_CONFIG_NAME="Copy of project-level server 'Ubuntu' (1)" WEB_SERVER_CREDENTIALS_ID="sftp://gbenor@192.168.159.130:22" INTERPRETER_PATH="/home/gbenor/anaconda3/bin/python" HELPERS_PATH="/home/gbenor/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="">
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1170732992/-142570073" remote-root="/home/gbenor/anaconda3/lib/python3.6" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1170732992/687626827" remote-root="/home/gbenor/anaconda3/lib/python3.6/site-packages" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7 (DeepMirTar)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.14" />
+      <homePath value="C:\Users\user\Anaconda2\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Anaconda2/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/Anaconda2/Lib" type="simple" />
+            <root url="file://$USER_HOME$/Anaconda2/Lib/lib-tk" type="simple" />
+            <root url="file://$USER_HOME$/Anaconda2" type="simple" />
+            <root url="file://$USER_HOME$/Anaconda2/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/Anaconda2/Lib/site-packages/win32" type="simple" />
+            <root url="file://$USER_HOME$/Anaconda2/Lib/site-packages/win32/lib" type="simple" />
+            <root url="file://$USER_HOME$/Anaconda2/Lib/site-packages/pythonwin" type="simple" />
+            <root url="jar://$USER_HOME$/Anaconda2/Lib/site-packages/pywinpty-0.5-py2.7-win-amd64.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/2099869805" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Documents/thesis/Tools/DeepMirTar" />
+    </jdk>
+    <jdk version="2">
+      <name value="Remote Python 2.7.15 (sftp://gbenor@192.168.159.129:22/home/gbenor/anaconda2/bin/python2.7)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.15" />
+      <homePath value="sftp://gbenor@192.168.159.129:22/home/gbenor/anaconda2/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1474645040/-1650122842" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1474645040/-1136542413" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1474645040/-1011727032" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1474645040/148767242" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1474645040/1014723144" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/35272139/-1650122842" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/35272139/-1136542413" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/35272139/-1011727032" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/35272139/148767242" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/35272139/1014723144" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/35272139" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional WEB_SERVER_CONFIG_ID="ef57a329-b0c0-4444-8db2-728c6b94a024" WEB_SERVER_CONFIG_NAME="Ubuntu - python 2.7" WEB_SERVER_CREDENTIALS_ID="sftp://gbenor@192.168.159.129:22" INTERPRETER_PATH="/home/gbenor/anaconda2/bin/python" HELPERS_PATH="/home/gbenor/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="Python 2.7.15">
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1474645040/-1650122842" remote-root="/home/gbenor/anaconda2/lib/python2.7" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1474645040/-1136542413" remote-root="/home/gbenor/anaconda2/lib/python2.7/plat-linux2" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1474645040/-1011727032" remote-root="/home/gbenor/anaconda2/lib/python2.7/lib-tk" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1474645040/148767242" remote-root="/home/gbenor/anaconda2/lib/python2.7/site-packages" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1474645040/1014723144" remote-root="/home/gbenor/anaconda2/lib/python2.7/site-packages/Mako-1.0.7-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/35272139/-1650122842" remote-root="/home/gbenor/anaconda2/lib/python2.7" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/35272139/-1136542413" remote-root="/home/gbenor/anaconda2/lib/python2.7/plat-linux2" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/35272139/-1011727032" remote-root="/home/gbenor/anaconda2/lib/python2.7/lib-tk" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/35272139/148767242" remote-root="/home/gbenor/anaconda2/lib/python2.7/site-packages" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/35272139/1014723144" remote-root="/home/gbenor/anaconda2/lib/python2.7/site-packages/Mako-1.0.7-py2.7.egg" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+  </component>
+</application>
