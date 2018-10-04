@@ -1,8 +1,8 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="ef57a329-b0c0-4444-8db2-728c6b94a024" name="Ubuntu - python 2.7" url="http://192.168.159.133">
-        <fileTransfer host="192.168.159.133" port="22" rootFolder="/home/gbenor" accessType="SFTP">
+      <webServer id="ef57a329-b0c0-4444-8db2-728c6b94a024" name="Ubuntu - python 2.7" url="http://192.168.159.134">
+        <fileTransfer host="192.168.159.134" port="22" rootFolder="/home/gbenor" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
