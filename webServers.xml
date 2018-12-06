@@ -17,8 +17,8 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
-      <webServer id="7593e307-a244-4808-965d-2ac8f5e03bf0" name="Copy of project-level server 'Fedora'" url="http://192.168.159.161">
-        <fileTransfer host="192.168.159.161" port="22" rootFolder="/home/gbenor" accessType="SFTP">
+      <webServer id="7593e307-a244-4808-965d-2ac8f5e03bf0" name="Copy of project-level server 'Fedora'" url="http://192.168.159.162">
+        <fileTransfer host="192.168.159.162" port="22" rootFolder="/home/gbenor" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
