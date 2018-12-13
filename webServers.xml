@@ -17,11 +17,16 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
-      <webServer id="7593e307-a244-4808-965d-2ac8f5e03bf0" name="Copy of project-level server 'Fedora'" url="http://192.168.159.167">
-        <fileTransfer host="192.168.159.167" port="22" rootFolder="/home/gbenor" accessType="SFTP">
+      <webServer id="7593e307-a244-4808-965d-2ac8f5e03bf0" name="Copy of project-level server 'Fedora'" url="http://192.168.159.168">
+        <fileTransfer host="192.168.159.168" port="22" rootFolder="/home/gbenor" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="ad2dad6c-53d1-4edf-a7a6-dd25a876f8c1" name="gbenor@192.168.159.168:22" url="http:///">
+        <fileTransfer host="192.168.159.168" port="22" accessType="SFTP">
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
