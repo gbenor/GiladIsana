@@ -26,7 +26,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="ad2dad6c-53d1-4edf-a7a6-dd25a876f8c1" name="gbenor@192.168.159.168:22" url="http:///">
-        <fileTransfer host="192.168.159.170" port="22" accessType="SFTP">
+        <fileTransfer host="192.168.159.172" port="22" accessType="SFTP">
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
