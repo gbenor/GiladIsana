@@ -30,6 +30,16 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="3347ffe8-6fe0-4faf-8e27-56c9d6d5f8ce" name="benorgi@132.72.67.169:22" url="http:///">
+        <fileTransfer host="132.72.67.169" port="22" accessType="SFTP">
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="3347ffe8-6fe0-4faf-8e27-56c9d6d5f8ce" name="benorgi@132.72.67.169:22" url="http:///">
+        <fileTransfer host="132.72.67.169" port="22" accessType="SFTP">
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
