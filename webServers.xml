@@ -40,6 +40,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="9a08ca9b-c520-411c-9399-4bf388490a8e" name="Copy of project-level server 'rna2'" url="http://132.72.67.169">
+        <fileTransfer host="132.72.67.169" port="22" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
