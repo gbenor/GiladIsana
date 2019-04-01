@@ -48,6 +48,11 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="4be700c8-7332-4051-9a11-8a13489e8f2a" name="benorgi@rna.ise.bgu.ac.il:22" url="http:///">
+        <fileTransfer host="rna.ise.bgu.ac.il" port="22" accessType="SFTP">
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
